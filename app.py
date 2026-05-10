@@ -7,5 +7,5 @@ def hi():
     if request.method == 'GET':
         return "<p>this is test</p>"
     if request.method == 'POST':
-        print("post is done")
+        print("chnged")
         return "<p>hury</p>"
