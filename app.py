@@ -8,4 +8,4 @@ def hi():
         return "<p>this is test</p>"
     if request.method == 'POST':
         print("post is done")
-        return "<p>huy</p>"
+        return "<p>hury</p>"
